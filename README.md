@@ -79,3 +79,5 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+- [setup-a-monorepo-with-turborepo-next-js-and-tailwind-css](https://medium.com/@mrizkiaiman/setup-a-monorepo-with-turborepo-next-js-and-tailwind-css-5cd751d34bc9)
+- [turborepo-withtailwind](https://github.com/mrizkiaiman/turborepo-withtailwind)
